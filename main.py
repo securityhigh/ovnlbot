@@ -13,7 +13,7 @@ import io
 config = None
 admins = None
 owner = None
-path = "config.ini"
+path = "/home/rick/config.ini"
 
 def configuration():
 	global config, path, admins, owner
